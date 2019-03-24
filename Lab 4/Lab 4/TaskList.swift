@@ -52,15 +52,11 @@ class TaskList {
         - startDate: start date of task
         - endDate: end date of task
      */
-    func tasksBetween(startDate: Date, endDate: Date) -> [Task] {
+    public func tasksBetween(startDate: Date, endDate: Date) -> [Task] {
         
     }
     
-    func tasks(withPriority: Priority) -> [Task]  {
-        
-    }
-    
-    public func tasks(p: Priority) -> [Task] {
+    public func tasks(withPriority: Priority) -> [Task]  {
         
     }
     
