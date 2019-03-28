@@ -1,4 +1,4 @@
-# Lab 5: Pico Fermi Bagel #
+# Lab 5: Game of Pig #
 ## Objective ##
 This project is designed to give you some hands on experience with:
 - Using Xcode as a development environment
